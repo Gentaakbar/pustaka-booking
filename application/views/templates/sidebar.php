@@ -23,7 +23,7 @@
     </li>
      <!-- Nav Item - Kategori buku -->
      <li class="nav-item">
-        <a class="nav-link pb-0" href="<?= base_url('user/kategori'); ?>">
+        <a class="nav-link pb-0" href="<?= base_url('buku/kategori'); ?>">
             <i class="fas fa-fw fa-book"></i>
             <span>Kategori Buku</span>
         </a>
